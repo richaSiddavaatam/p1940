@@ -148,7 +148,7 @@ To do this, an RP must know the types of authentication methods available and th
 
 Lastly, once an authentication has occurred, the IdP returns the result to the RP along with a vector of trust (VoT) component-value string declaring the specific methods and policies used.
 
-The IEEE P1940 example ATM transaction involves a number of actors to handle aspects of the transaction. This architecture diagram shows the actors in an ATM network including a mobile app communicating with service provider servers to carry out a transaction. 
+The IEEE P1940 example ATM transaction involves a number of entities to handle aspects of the transaction. This architecture diagram shows the entities in an ATM network including a mobile app communicating with service provider servers to carry out a transaction. 
 
 ![Image of ATM network](http://raw.github.com/p1940/p1940/master/VoTArchitecture.png?cache=no)
 
